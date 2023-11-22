@@ -6,9 +6,11 @@ Projeto de um site responsível grande parte do que aprendi no curso de JavaScri
 
 ## 💻 Tecnologias
 
+- JavaScript
+- Webpack
+- Babel
 - HTML
 - CSS
-- JavaScript
 - Git e Github
 
 ## 📩 Contato 
